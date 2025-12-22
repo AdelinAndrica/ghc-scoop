@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.4/ghc-windows-x86_64.zip",
-      "hash": "d0e9df4fdfb32bf1f568fd30e9c96d04f23870cd260f7b8630585fd709c21f2d",
+      "hash": "e6846276619166e7d3e1369b528b26786ab9c8601194a09fb602550f32948ce7",
       "bin": "ghc.exe"
     }
   }

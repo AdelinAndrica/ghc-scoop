@@ -1,12 +1,12 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Interactive GitHub repository picker and cloner",
   "homepage": "https://github.com/AdelinAndrica/ghc",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.7/ghc-windows-x86_64.zip",
-      "hash": "36439e398d985d5ac05db9f13bdd08141c2e52cf2ce71e94ca202d1dfc8a679b",
+      "url": "https://github.com/AdelinAndrica/ghc/releases/download/v0.0.8/ghc-windows-x86_64.zip",
+      "hash": "6578a8770b15edef7b61003defc0043ff2f6dcb434bfd89a162e5c3d994cf689",
       "bin": "ghc.exe"
     }
   }
